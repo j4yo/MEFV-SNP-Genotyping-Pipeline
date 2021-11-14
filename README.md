@@ -28,4 +28,6 @@ Nanofilt, minimap2, bcftools and bedtools should by installed in individual cond
   - "ANNOVAR_Path": Path to the table_annovar.pl file.
   - "ANNOVAR_DB": Path to the ANNOVAR "humandb" directory. 
 
-2. Save changes and execute the script from the terminal.
+2. Set number of availabel CPU threads on the system ("NT").
+
+3. Save changes and execute the script from the terminal.
